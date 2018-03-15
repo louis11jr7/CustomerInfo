@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">CustomerInfo</string>
+    <string name="customer">Customer</string>
+    <string name="info">Info</string>
+    <string name="firstname">First Name:</string>
+    <string name="lastname">Last Name:</string>
+    <string name="street">Street:</string>
+    <string name="city">City:</string>
+    <string name="pull">PULL</string>
+</resources>
